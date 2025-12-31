@@ -1,0 +1,24 @@
+# SEO Article Extractor 的 URLs 示例文件
+# 
+# 使用说明：
+# 1. 在 Google 上搜索你的关键词
+# 2. 找出排名前 5 的高质量文章
+# 3. 确保每个链接都能正常打开
+# 4. 将 URL 复制到这个文件中（每行一个）
+# 5. 将文件重命名为 urls.txt
+# 6. 运行脚本：python3 seo_article_extractor.py "你的关键词"
+#
+# 示例：关键词 "What Is LED & How It Works"
+
+https://en.wikipedia.org/wiki/Light-emitting_diode
+https://www.investopedia.com/terms/l/light-emitting-diode-led.asp
+https://www.electronics-tutorials.ws/diode/diode_8.html
+https://www.semtech.com/pages/tm-led-basics
+https://www.explainthatstuff.com/lightbulbs.html
+
+# 您可以使用任何高质量的来源：
+# - Wikipedia（维基百科）
+# - 官方公司网站
+# - 知名技术博客
+# - 教育网站（Khan Academy, Coursera 等）
+# - 新闻网站（Investopedia, TechCrunch 等）
